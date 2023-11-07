@@ -1,0 +1,10 @@
+{
+  "namespace": "com.example.avro",
+  "type": "record",
+  "name": "ActingEvent",
+  "fields": [
+    { "name":  "name", "type": "string" },
+    { "name":  "title", "type": "string" },
+    { "name":  "genre", "type": "string" }
+  ]
+}

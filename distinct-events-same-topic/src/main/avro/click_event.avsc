@@ -1,0 +1,10 @@
+{
+  "namespace": "org.example.avro",
+  "type": "record",
+  "name": "ClickEvent",
+  "fields": [
+    {"name": "ip", "type": "string"},
+    {"name": "url", "type": "string"},
+    {"name": "timestamp", "type": "string"}
+  ]
+}

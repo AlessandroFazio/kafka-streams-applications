@@ -1,0 +1,9 @@
+{
+  "namespace": "org.example.avro",
+  "type": "record",
+  "name": "SongEvent",
+  "fields": [
+    {"name": "artist", "type": "string"},
+    {"name": "title", "type": "string"}
+  ]
+}

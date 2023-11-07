@@ -1,0 +1,11 @@
+truck:value
+car:words
+car:All Streams
+car:Lead to
+truck:Kafka
+car:Go to
+truck:Kafka Summit
+car:How can
+truck:a 10 ounce
+truck:bird carry a
+car:5lb coconut

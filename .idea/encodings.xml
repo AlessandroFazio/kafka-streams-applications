@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/aggregate-ttl-ktable/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aggregate-ttl-ktable/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distinct-events-same-topic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/distinct-events-same-topic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/join-stream-to-table/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/join-stream-to-table/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/join-tables-on-foreign-key/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/join-tables-on-foreign-key/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-stremas-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka-stremas-application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ktable-ttl-cleanup/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ktable-ttl-cleanup/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/merge-streams/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/merge-streams/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/name-stateful-ops/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/name-stateful-ops/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parallel-consumer-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parallel-consumer-application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/producer-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/producer-application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/producer-callback-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/producer-callback-application/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rekey-udf-ksqldb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rekey-udf-ksqldb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/running-average/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/running-average/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schedule-operations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schedule-operations/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/split-stream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/split-stream/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/streams-error-handling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/streams-error-handling/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
